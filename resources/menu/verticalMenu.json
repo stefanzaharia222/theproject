@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "name": "Entities",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "entities",
+      "url": "entities"
+    },
+    {
+      "name": "Fields",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "fields",
+      "url": "fields"
+    },
+    {
+      "name": "Tickets",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "tickets",
+      "url": "tickets"
+    },
+    {
+      "name": "Tasks",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "tasks",
+      "url": "tasks"
+    },
+    {
+      "name": "Status",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "status",
+      "url": "status"
+    },
+    {
+      "name": "Process",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "process",
+      "url": "process"
+    },
+    {
+      "name": "Automations",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "automations",
+      "url": "automations"
+    },
+    {
+      "name": "Groups",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "groups",
+      "url": "groups"
+    },
+    {
+      "name": "Roles",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "roles",
+      "url": "roles"
+    },
+    {
+      "name": "Profiles",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "profiles",
+      "url": "profiles"
+    },
+    {
+      "name": "Users",
+      "icon": "menu-icon mdi mdi-microsoft-teams",
+      "slug": "users",
+      "url": "users"
+    }
+  ]
+}
